@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Palatino Linotype';
+    src: url('../fonts/PalatinoLinotype-BoldItalic.woff2') format('woff2'),
+        url('../fonts/PalatinoLinotype-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
